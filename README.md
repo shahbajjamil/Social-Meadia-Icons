@@ -12,3 +12,6 @@ Popular social media icons for adding your Accounts/links in README
 ![youtube](Icons-logos/youtube-circle.png)
 # twitter
 ![twitter](Icons-logos/twitter-circle.png)
+# Medium
+![twitter](Icons-logos/Medium-circle.png)
+
