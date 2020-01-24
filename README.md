@@ -4,6 +4,8 @@ Popular social media icons for adding your Accounts/links in README
 ---
 # facebook
 ![facebook](Icons-logos/facebook-circle.png)
+# whatsapp
+![whatsapp](Icons-logos/whatsapp-circle.png)
 # Instagram
 ![instagram](Icons-logos/instagram-circle.png)
 # linkedin
@@ -13,5 +15,5 @@ Popular social media icons for adding your Accounts/links in README
 # twitter
 ![twitter](Icons-logos/twitter-circle.png)
 # Medium
-![twitter](Icons-logos/Medium-circle.png)
+![Medium](Icons-logos/Medium-circle.png)
 
